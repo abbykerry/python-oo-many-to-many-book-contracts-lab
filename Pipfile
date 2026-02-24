@@ -4,7 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pytest = "*"
 ipdb = "*"
 importlib-resources = "*"
 importlib-metadata = "*"
